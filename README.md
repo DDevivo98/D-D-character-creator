@@ -11,18 +11,18 @@ this is the setup I am going for. do know all the panels will be on at once and 
 we are going to use the actions, and listener, to turn panels on and off.
 
 
---Frame 
-  --main menu Panel
-    --Create Character Button (JButton)
-    --Import Character Button(JButton)
-    --Exit(JButton)
-  --select Gender panel
-  --Character Creator panel
-    --stats sub-panel
-    --Character Portraits subpanel
-      --Character Portraits label
-    --feet's subpanel
-  --import Character panel
+--Frame <br />
+  --main menu Panel<br />
+    --Create Character Button (JButton)<br />
+    --Import Character Button(JButton)<br />
+    --Exit(JButton)<br />
+  --select Gender panel<br />
+  --Character Creator panel<br />
+    --stats sub-panel<br />
+    --Character Portraits subpanel<br /><br />
+      --Character Portraits label<br />
+    --feet's subpanel<br />
+  --import Character panel<br />
 
     
     
